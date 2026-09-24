@@ -523,6 +523,9 @@ Matomo, formerly known as Piwik, is a comprehensive, open-source analytics platf
 #### [Best Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms)
 
 An independent, hands-on comparison of 9 consent management platforms (CMPs) — including OneTrust, Cookiebot, Iubenda, My Agile Privacy, Didomi, and others — tested on over 25 real websites over 3 months. Evaluates GDPR and ePrivacy compliance accuracy, setup complexity, performance impact, TCF 2.x and Google Consent Mode v2 support, and pricing. No affiliate links or sponsored content — purely experience-based.
+#### [Cookie Banner Auditor](https://movahedi.ca/tools/cookie-banner-auditor/)
+
+Free online tool that audits a website's cookie consent banner and grades it against GDPR/ePrivacy and Canadian privacy expectations — checking notice clarity, genuine opt-in mechanics, and pre-ticked or dark-pattern defaults. No account or install needed.
 
 ### Cryptocurrencies & Wallets
 
